@@ -1,5 +1,26 @@
 About Me:
 
-I am Alishba Shah.
-I am 19 Years Old.
-I am From Islamabad.
+I am Alishba Shah, a buddying information technologist,have passion for learning and contributing to open source technology.
+I am eager to expand my skills and knowledge in open-source development and collaborate with like-minded individuals. 
+
+Education:
+
+Islamic International university islamabad
+Bachelor of Information Technology
+2023-ongoing
+
+IMCG G10/2 islamabad
+HSSC (ICS)
+2020-2022
+
+IMCG G10/2
+SSC
+2018-2020
+
+Projects:
+created games i.e car game,snowman shooting game in opengl.
+created a simulate ecosystem in c++.
+created a Magazine in MS word.
+
+Experiance:
+I have gave Tution to students from grade 8 to 11.
